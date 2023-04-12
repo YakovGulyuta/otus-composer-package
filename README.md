@@ -4,7 +4,7 @@
 
 ## Требования
 
-- PHP 8.1
+- PHP 8.2
 
 ```bash
 $ composer require yakovgulyuta/otus-composer-package
@@ -14,6 +14,7 @@ $ composer require yakovgulyuta/otus-composer-package
 
 ```php
 <?php
-$object = new \stdClass()
+$object = new Composer()
+echo $object->hello();
 ```
 
