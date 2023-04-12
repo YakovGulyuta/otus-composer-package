@@ -1,0 +1,16 @@
+{
+    "name": "yakovgulyuta/otus-composer-package",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Yakovgulyuta\\OtusComposerPackage\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "yakov-gulyuta",
+            "email": "yakovgulyuta@yandex.ru"
+        }
+    ],
+    "require": {}
+}
