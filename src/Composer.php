@@ -7,7 +7,7 @@ class Composer
 
     public function hello(): string
     {
-        return 'Hello';
+        return 'Hello World';
     }
 
 }
