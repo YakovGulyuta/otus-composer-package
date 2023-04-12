@@ -10,4 +10,9 @@ class Composer
         return 'Hello World';
     }
 
+    public function goodBy(): string
+    {
+        return 'Good By';
+    }
+
 }

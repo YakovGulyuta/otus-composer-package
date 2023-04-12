@@ -14,7 +14,8 @@ $ composer require yakovgulyuta/otus-composer-package
 
 ```php
 <?php
-$object = new Composer()
+$object = new Composer();
 echo $object->hello();
+echo $object->goodBy();
 ```
 
