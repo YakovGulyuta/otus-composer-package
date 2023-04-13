@@ -12,5 +12,7 @@
             "email": "yakovgulyuta@yandex.ru"
         }
     ],
-    "require": {}
+    "require": {
+        "php": ">=8.2"
+    }
 }

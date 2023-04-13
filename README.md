@@ -4,7 +4,7 @@
 
 ## Требования
 
-- PHP 8.2
+- PHP >=8.2
 
 ```bash
 $ composer require yakovgulyuta/otus-composer-package
